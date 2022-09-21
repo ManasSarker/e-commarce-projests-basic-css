@@ -1,0 +1,22 @@
+.container {
+  margin-bottom: 10px;
+}
+.bg-white {
+  background-image: url(/hot-gadgets/bg-2.png);
+  background-repeat: no-repeat;
+  background-position-x: left --40px;
+}
+.bg-half {
+  background-image: url(/hot-gadgets/bg-1.png);
+  background-repeat: no-repeat;
+}
+.carousel-item {
+  padding: 20px 40px;
+}
+.background-image-position {
+  background-image: url("hot-gadgets/bg-2.png");
+
+  background-repeat: no-repeat;
+
+  background-position: bottom left 100px;
+}
